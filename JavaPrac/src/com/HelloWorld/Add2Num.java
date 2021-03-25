@@ -11,9 +11,13 @@ public class Add2Num {
 		
 		long l = 12345;  //8 Bytes space
 		
-		float f;   //4 Bytes space
+		//float f;   //4 Bytes space
 		
 		double d = 1.33;  //8 bytes space
+		
+		char c = 'a';  // 2 Bytes space
+		
+		
 		
 		
 		
