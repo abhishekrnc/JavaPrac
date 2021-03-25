@@ -6,6 +6,9 @@ public class Add2Num {
 		int i = 10;   //4 Bytes space
 		int j = 15;   //4 Bytes space
 		
+		int k = i + j;
+		System.out.println(k);
+		
 		
 		short s = 123;  //2  Bytes space
 		
