@@ -9,6 +9,9 @@ public class Add2Num {
 		int k = i + j;
 		System.out.println(k);
 		
+		i = 13;     //We have not written here int because we have already created a memory and we are rewriting or reinitializing the value of i in the same memory.
+		
+		
 		
 		short s = 123;  //2  Bytes space
 		
