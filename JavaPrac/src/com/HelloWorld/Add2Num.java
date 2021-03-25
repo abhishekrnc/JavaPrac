@@ -17,6 +17,12 @@ public class Add2Num {
 		
 		char c = 'a';  // 2 Bytes space
 		
+		boolean b = true ;
+		
+		boolean otherB = false;
+		
+		
+		
 		
 		
 		
