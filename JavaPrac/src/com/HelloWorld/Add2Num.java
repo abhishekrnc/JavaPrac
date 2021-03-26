@@ -7,8 +7,10 @@ public class Add2Num {
 		
 		Scanner scan = new Scanner(System.in);  //Scanner is a datatype and scan is a variable
 		
-		int i = 10;   //4 Bytes space
-		int j = 15;   //4 Bytes space
+		
+		
+		int i = scan.nextInt();   //4 Bytes space
+		int j = scan.nextInt();   //4 Bytes space
 		
 		int k = i + j;
 		System.out.println(k);
