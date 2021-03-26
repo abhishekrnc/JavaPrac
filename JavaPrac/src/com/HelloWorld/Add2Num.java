@@ -8,12 +8,14 @@ public class Add2Num {
 		Scanner scan = new Scanner(System.in);  //Scanner is a datatype and scan is a variable
 		
 		
-		
+		System.out.println("Enter 1st Integer");
 		int i = scan.nextInt();   //4 Bytes space
+		
+		System.out.println("Enter 2nd Integer");
 		int j = scan.nextInt();   //4 Bytes space
 		
 		int k = i + j;
-		System.out.println(k);
+		System.out.println("The sum of both integer is" + k);
 		
 //		i = 13;     //We have not written here int because we have already created a memory and we are rewriting or reinitializing the value of i in the same memory.
 //		
