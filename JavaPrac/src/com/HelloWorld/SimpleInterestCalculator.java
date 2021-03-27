@@ -1,13 +1,32 @@
 package com.HelloWorld;
 
+import java.util.Scanner;
+
 public class SimpleInterestCalculator {
 
 	public static void main(String[] args) {
 		
-		int p = 1000;
-		int r = 10;
-		int t = 5;
+		Scanner s = new Scanner(System.in);
+		
+		String str = s.next();
+		System.out.println(str);
+		
+		int p = s.nextInt();
+		int r = s.nextInt();
+		int t = s.nextInt();
+		
+		long l = s.nextLong();
+		
+		double d = s.nextDouble();
+		
+		float f = s.nextFloat();
+		
+		
 		int si = (p * t * r)/100;
+		
+		
+		
+		
 		
 		System.out.println(si);
 
