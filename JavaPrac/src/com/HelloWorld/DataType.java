@@ -9,8 +9,21 @@ public class DataType {
 										// ASCII value for "a" is 97.
 	
 	int i = c + 10;
-	
 	System.out.println(i);
+
+	i = c;
+	//char abc = 1;
+	
+	long l = i;
+	i = l;
+	
+	double d = i;
+	//i = d;
+	
+	int i = 100;
+	
+	
+	
 	}
 		
 	}
