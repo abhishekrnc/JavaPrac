@@ -20,7 +20,9 @@ public class DataType {
 	double d = i;
 	//i = d;
 	
-	int i = 100;
+	
+	float f = 1.23f;  // we are writing the f in front as this will treat 1.23 as a float number
+	int j = 100;
 	
 	
 	
