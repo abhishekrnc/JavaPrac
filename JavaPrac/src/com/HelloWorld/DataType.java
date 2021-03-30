@@ -24,7 +24,7 @@ public class DataType {
 	float f = 1.23f;  // we are writing the f in front as this will treat 1.23 as a float number
 	int j = 100;
 	
-	
+	f = d //we can't put double in float as double has 8 bytes and float has 4 bytes.
 	
 	}
 		
