@@ -16,8 +16,8 @@ public class DataType {
 	
 	long l = i;
 	l = 12345678334243L;  //Here L = I means Long is + Integer. So Integer can't hold long values. and that's why we are writing L in last so that it can take it as Long.
-	i = (int)l;
-	System.out.println(l);
+	i = (int)l;  //Explicit type casting. In Explicit type casting there is some data loss if we go from big data to small i.e. from 8 bytes to 4 bytes.
+	System.out.println(l);  
 	System.out.println(i);
 	
 	double d = i;
