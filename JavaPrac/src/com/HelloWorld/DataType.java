@@ -5,17 +5,19 @@ public class DataType {
 	public static void main(String t[]) {
 		
 	char c = 'a';
-	System.out.println(c + 3);         //Here it is taking the ASCII Value for "a". As "+" sign is only defined for the integres.
+	//System.out.println(c + 3);         //Here it is taking the ASCII Value for "a". As "+" sign is only defined for the integres.
 										// ASCII value for "a" is 97.
 	
 	int i = c + 10;
-	System.out.println(i);
+	//System.out.println(i);
 
 	i = c;
 	//char abc = 1;
 	
 	long l = i;
-	i = l;
+	//i = l;
+	System.out.println(l);
+	System.out.println(i);
 	
 	double d = i;
 	//i = d;
@@ -25,6 +27,8 @@ public class DataType {
 	int j = 100;
 	
 	f = d //we can't put double in float as double has 8 bytes and float has 4 bytes.
+			
+			
 	
 	}
 		
