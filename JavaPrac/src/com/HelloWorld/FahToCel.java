@@ -10,7 +10,7 @@ public class FahToCel {
 		double f = s.nextDouble();
 		//double cel = (5/9)*(f - 32);
 		
-		int cel1 = (int)((5 * (f - 32)) / 9); //Explict type casting to convert double into int
+		int cel1 = (int)((5 * (f - 32)) / 9); //int is used in front for Explict type casting to convert double into int
 		System.out.println(f + " Fahrenheit to Celcius in Integer is " + cel1);
 		
 		double cel = (5 * (f - 32)) / 9;
