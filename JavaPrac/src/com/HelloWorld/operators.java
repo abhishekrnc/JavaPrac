@@ -14,7 +14,7 @@ public class operators {
 		
 		System.out.println(9 % 5);
 		
-		System.out.println('a' + 1);
+		System.out.println('a' + 'b');
 	}
 
 }
