@@ -17,6 +17,10 @@ public class operators {
 		int i = c + 3;
 		System.out.println(i);
 		
+		char e = 'a';
+		char f = (char)(e + 3);  //explicit type casting
+		System.out.println(f);
+		
 		System.out.println('a' + 'b');
 	}
 
