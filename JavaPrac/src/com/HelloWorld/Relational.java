@@ -15,7 +15,13 @@ public class Relational {
 		boolean isgreq = (i >=j);
 		boolean isless = (i < j);
 		boolean isLessEq = (i <= j);
-		System.out.println(isEq);
+		System.out.println("Is Equal" + isEq);
+		System.out.println(neq);
+		System.out.println();
+		System.out.println();
+		System.out.println();
+		System.out.println();
+		
 	}
 
 }
