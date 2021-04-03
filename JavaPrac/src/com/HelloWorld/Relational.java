@@ -10,7 +10,7 @@ public class Relational {
 		int j = s.nextInt();
 		
 		boolean isEq = (i == j);
-
+		System.out.println(isEq);
 	}
 
 }
