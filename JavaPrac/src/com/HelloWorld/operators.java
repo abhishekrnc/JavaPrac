@@ -22,6 +22,8 @@ public class operators {
 		System.out.println(f);
 		
 		System.out.println('a' + 'b');
+		
+		System.out.println('a' / 3);
 	}
 
 }
