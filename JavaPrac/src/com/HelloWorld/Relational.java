@@ -10,6 +10,11 @@ public class Relational {
 		int j = s.nextInt();
 		
 		boolean isEq = (i == j);
+		boolean neq = (i != j);
+		boolean isgr = (i > j);
+		boolean isgreq = (i >=j);
+		boolean isless = (i < j);
+		boolean isLessEq = (i <= j);
 		System.out.println(isEq);
 	}
 
