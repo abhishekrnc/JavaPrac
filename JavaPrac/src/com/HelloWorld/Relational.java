@@ -19,8 +19,8 @@ public class Relational {
 		System.out.println("Is Not Equal" + neq);
 		System.out.println("Is Greater" + isgr);
 		System.out.println("Is Greater Equal" + isgreq);
-		System.out.println();
-		System.out.println();
+		System.out.println("Is Less" + isless);
+		System.out.println("");
 		
 	}
 
