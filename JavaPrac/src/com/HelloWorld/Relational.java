@@ -21,6 +21,7 @@ public class Relational {
 		System.out.println("Is Greater Equal" + isgreq);
 		System.out.println("Is Less" + isless);
 		System.out.println("Is Less Equal" + isLessEq);
+                System.out.println("Just In case");
 		
 	}
 

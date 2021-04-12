@@ -7,6 +7,11 @@ public class check {
 		int b = 12;
 		int c = 1 + b;
 		System.out.println(c);
+		int d =10;
+		int e = 12;
+		int f = 1 + b;
+		System.out.println(f);
+		
 		
 	}
 		
