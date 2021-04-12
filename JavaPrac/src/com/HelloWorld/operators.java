@@ -12,7 +12,7 @@ public class operators {
 		System.out.println(9 / 5);
 		System.out.println(9 * 5);
 		
-		System.out.println('a/3');
+		System.out.println('a'/3);
 		
 		System.out.println(9 % 5);
 		char c = 'a';
