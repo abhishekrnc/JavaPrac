@@ -13,6 +13,7 @@ public class Logical {
 		boolean isALargest = (a>=b) && (a>=c);
 		System.out.println(isALargest);
 		System.out.println((a>=b) || (a>=c));
+		System.out.println(!(a>=b));
 
 	}
 
