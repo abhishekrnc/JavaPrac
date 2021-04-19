@@ -19,6 +19,11 @@ public class LargestOfThreeFormatTwo {
 				System.out.println("B=");
 				System.out.println(b);
 			}
+			else
+				if(c>=a && c>=b) {
+					System.out.println("C=");
+					System.out.println(c);
+				}
 	}
 
 }
