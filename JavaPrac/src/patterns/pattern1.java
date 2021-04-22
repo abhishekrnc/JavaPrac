@@ -15,7 +15,7 @@ public class pattern1 {
 				j = j+1;
 			}
 			System.out.println();
-			
+			i = i + 1;
 		}
 		
 	}
